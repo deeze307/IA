@@ -1,0 +1,12 @@
+<?php
+require_once("RandomClass.php");
+
+$maquinas  = new RandomTable();
+$numMaquina = $_GET['idMaquina'];
+
+//$rawMaquinas = $maquinas->getJsonData($_GET['idMaquina']);
+
+$sql = "SELECT ("; echo $sql; $raMaquinas = $maquinas->getJsonDataQuery($sql); UNIX_TIMESTAMP( fechaValor ) *1000 ) AS fechaValor, numeroMaquina print_r($raMaquinas); FROM 
+correctivos.maquinas class valoresJSon {
+WHERE numeroMaquina =  '000011'
+}
