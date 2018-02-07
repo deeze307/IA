@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D238D3F2-0491-4A7F-A1F6-094C91411655}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AOICollector</RootNamespace>
+    <AssemblyName>AOICollector</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>\\ush-nt-3\v1\Users\INSAUT\PLANTA_3\TECNICOS_3\Programacion\Software\Matias\AoiCollector\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>\\ush-nt-3\v1\Users\INSAUT\PLANTA_3\TECNICOS_3\Programacion\Software\Matias\AoiCollector\</UpdateUrl>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>33</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icono.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>46F1D11ADC1BB42DD8AF5E8F949AB0CA6631BA0D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>AOI_VTWIN_RNS_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL" />
+    <Reference Include="Oracle.ManagedDataAccess.EntityFramework, Version=6.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL" />
+    <Reference Include="Oracle.Web, Version=4.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL" />
+    <Reference Include="StackExchange.Redis, Version=1.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\StackExchange.Redis.1.2.1\lib\net45\StackExchange.Redis.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aoicollector\Core\Realtime.cs" />
+    <Compile Include="Aoicollector\IAServer\Api.cs" />
+    <Compile Include="Aoicollector\IAServer\EventService.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Aoicollector\ResponseEndSmt.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Cogiscan\QueryItemProductAttributes.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Cogiscan\QueryItemProduct.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Cogiscan\QueryItemAttributes.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Inspector.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Produccion.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Profile.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Route.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Sfcs.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Panel.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Smt.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Wip\Wip.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\Models\Wip\WipOt.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\PanelInfoMapper.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\AoicollectorPassed.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\QueryItemMapper.cs" />
+    <Compile Include="Aoicollector\IAServer\Mapper\ProdInfoMapper.cs" />
+    <Compile Include="Aoicollector\IAServer\CogiscanService.cs" />
+    <Compile Include="Aoicollector\Inspection\Declarar.cs" />
+    <Compile Include="Aoicollector\Rns\Controller\InspectionResult.cs" />
+    <Compile Include="Aoicollector\Rns\Controller\InspectionTextFileHandler.cs" />
+    <Compile Include="Aoicollector\Rns\Controller\InspectionTextFileAttribute.cs" />
+    <Compile Include="Aoicollector\Vts500\Vts500Panel.cs" />
+    <Compile Include="Aoicollector\Zenith\Controller\SqlServerController.cs" />
+    <Compile Include="Aoicollector\Zenith\Controller\SqlServerQuery.cs" />
+    <Compile Include="Aoicollector\Zenith\Forms\Zenith_FormConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aoicollector\Zenith\Forms\Zenith_FormConfiguration.Designer.cs">
+      <DependentUpon>Zenith_FormConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aoicollector\Zenith\Zenith.cs" />
+    <Compile Include="Aoicollector\Zenith\ZenithInspection.cs" />
+    <Compile Include="Aoicollector\Zenith\ZenithPanel.cs" />
+    <Compile Include="Forms\Oracle_PanelData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Oracle_PanelData.Designer.cs">
+      <DependentUpon>Oracle_PanelData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Redis_FormConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Redis_FormConfiguration.Designer.cs">
+      <DependentUpon>Redis_FormConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Src\Database\IDatabase.cs" />
+    <Compile Include="Src\Prompt\Prompter.cs" />
+    <Compile Include="Src\Redis\Redis.cs" />
+    <Compile Include="Src\Service\ServiceJson.cs" />
+    <Compile Include="Src\Service\ServiceXml.cs" />
+    <Compile Include="Aoicollector\Inspection\BarcodeValidator.cs" />
+    <Compile Include="Aoicollector\Inspection\Bloque.cs" />
+    <Compile Include="Aoicollector\Inspection\Model\Revision.cs" />
+    <Compile Include="Aoicollector\Inspection\Panel.cs" />
+    <Compile Include="Aoicollector\Rns\RnsPanel.cs" />
+    <Compile Include="Aoicollector\Vtwin\VtwinPanel.cs" />
+    <Compile Include="Src\Util\Convertion\Convertion.cs" />
+    <Compile Include="Src\Util\Logs\RichLog.cs" />
+    <Compile Include="Aoicollector\IAServer\InspectionService.cs" />
+    <Compile Include="Aoicollector\IAServer\ProductionService.cs" />
+    <Compile Include="Aoicollector\Core\Worker.cs" />
+    <Compile Include="Aoicollector\Core\Log.cs" />
+    <Compile Include="Aoicollector\Core\AoiController.cs" />
+    <Compile Include="Aoicollector\Inspection\InspectionController.cs" />
+    <Compile Include="Aoicollector\Rns\Controller\InspectionTextFileHeader.cs" />
+    <Compile Include="Aoicollector\Rns\Rns.cs" />
+    <Compile Include="Aoicollector\Rns\RnsInspection.cs" />
+    <Compile Include="Aoicollector\Core\Config.cs" />
+    <Compile Include="Aoicollector\Vts500\Controller\OracleController.cs" />
+    <Compile Include="Aoicollector\Vts500\Vts500.cs" />
+    <Compile Include="Aoicollector\Vts500\Vts500Inspection.cs" />
+    <Compile Include="Aoicollector\Vtwin\Controller\OracleController.cs" />
+    <Compile Include="Aoicollector\Vtwin\Controller\OracleQuery.cs" />
+    <Compile Include="Aoicollector\Vtwin\Vtwin.cs" />
+    <Compile Include="Aoicollector\Vtwin\VtwinInspection.cs" />
+    <Compile Include="Src\Config\AppConfig.cs" />
+    <Compile Include="Src\Database\MySqlConnector.cs" />
+    <Compile Include="Src\Database\OracleConnector.cs" />
+    <Compile Include="Src\Database\SqlServerConnector.cs" />
+    <Compile Include="Src\Http\Http.cs" />
+    <Compile Include="Src\Util\Crypt\Crypt.cs" />
+    <Compile Include="Src\Util\Files\FilesHandler.cs" />
+    <Compile Include="Src\Util\Network\Network.cs" />
+    <Compile Include="Forms\Mysql_FormConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Mysql_FormConfiguration.Designer.cs">
+      <DependentUpon>Mysql_FormConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aoicollector\Vts500\Forms\Vts500_FormConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aoicollector\Vts500\Forms\Vts500_FormConfiguration.Designer.cs">
+      <DependentUpon>Vts500_FormConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Src\Util\Event\Event.cs" />
+    <Compile Include="Aoicollector\Inspection\Export.cs" />
+    <Compile Include="Aoicollector\Inspection\History.cs" />
+    <Compile Include="Aoicollector\Inspection\Model\Pendiente.cs" />
+    <Compile Include="Aoicollector\Rns\Forms\Rns_FormConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aoicollector\Rns\Forms\Rns_FormConfiguration.Designer.cs">
+      <DependentUpon>Rns_FormConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Oracle_QueryClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Oracle_QueryClient.Designer.cs">
+      <DependentUpon>Oracle_QueryClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aoicollector\Vts500\Controller\OracleQuery.cs" />
+    <Compile Include="Aoicollector\Vtwin\Forms\Vtwin_FormConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aoicollector\Vtwin\Forms\Vtwin_FormConfiguration.Designer.cs">
+      <DependentUpon>Vtwin_FormConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aoicollector\Inspection\Model\Detail.cs" />
+    <Compile Include="Aoicollector\Inspection\Model\Faultcode.cs" />
+    <Compile Include="Aoicollector\Inspection\Model\Machine.cs" />
+    <Compile Include="Aoicollector\Inspection\Model\PcbInfo.cs" />
+    <Compile Include="Aoicollector\Core\PcbData.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\LineFilter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LineFilter.Designer.cs">
+      <DependentUpon>LineFilter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <EmbeddedResource Include="Aoicollector\Zenith\Forms\Zenith_FormConfiguration.resx">
+      <DependentUpon>Zenith_FormConfiguration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Mysql_FormConfiguration.resx">
+      <DependentUpon>Mysql_FormConfiguration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aoicollector\Vts500\Forms\Vts500_FormConfiguration.resx">
+      <DependentUpon>Vts500_FormConfiguration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Oracle_PanelData.resx">
+      <DependentUpon>Oracle_PanelData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Redis_FormConfiguration.resx">
+      <DependentUpon>Redis_FormConfiguration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Aoicollector\Rns\Forms\Rns_FormConfiguration.resx">
+      <DependentUpon>Rns_FormConfiguration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Oracle_QueryClient.resx">
+      <DependentUpon>Oracle_QueryClient.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aoicollector\Vtwin\Forms\Vtwin_FormConfiguration.resx">
+      <DependentUpon>Vtwin_FormConfiguration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LineFilter.resx">
+      <DependentUpon>LineFilter.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="MySql.Data">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icono.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

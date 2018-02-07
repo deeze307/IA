@@ -1,0 +1,83 @@
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.exe.config
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.exe.manifest
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.application
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.exe
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.pdb
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\bin\x64\Release\MySql.Data.dll
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\bin\x64\Release\Oracle.DataAccess.dll
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.csprojResolveAssemblyReference.cache
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.csproj.ResolveComReference.cache
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.Properties.Resources.resources
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.csproj.GenerateResource.Cache
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.exe.manifest
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.application
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.exe
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.pdb
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.MainForm.resources
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Zenith_FormConfiguration.resources
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Mysql_FormConfiguration.resources
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Vts500_FormConfiguration.resources
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Oracle_PanelData.resources
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Rns_FormConfiguration.resources
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Oracle_QueryClient.resources
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Vtwin_FormConfiguration.resources
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.LineFilter.resources
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\bin\x64\Release\StackExchange.Redis.dll
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\bin\x64\Release\StackExchange.Redis.xml
+C:\Users\Core\Desktop\VISUALSTUDIO\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.Forms.Redis_FormConfiguration.resources
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.exe.config
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.csproj.ResolveComReference.cache
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.exe
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.pdb
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.exe.manifest
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.application
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.exe
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.pdb
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\MySql.Data.dll
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\StackExchange.Redis.dll
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\StackExchange.Redis.xml
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.csprojResolveAssemblyReference.cache
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Zenith_FormConfiguration.resources
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Mysql_FormConfiguration.resources
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Vts500_FormConfiguration.resources
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Oracle_PanelData.resources
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.Forms.Redis_FormConfiguration.resources
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.MainForm.resources
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.Properties.Resources.resources
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Rns_FormConfiguration.resources
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Oracle_QueryClient.resources
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Vtwin_FormConfiguration.resources
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.LineFilter.resources
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.csproj.GenerateResource.Cache
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.exe.manifest
+C:\Users\Core\Desktop\Newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.application
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.exe.config
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.exe.manifest
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.application
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.exe
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\AOICollector.pdb
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\Newtonsoft.Json.dll
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\StackExchange.Redis.dll
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\Newtonsoft.Json.xml
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\bin\x64\Release\StackExchange.Redis.xml
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.csproj.ResolveComReference.cache
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Zenith_FormConfiguration.resources
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Mysql_FormConfiguration.resources
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Vts500_FormConfiguration.resources
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Oracle_PanelData.resources
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.Forms.Redis_FormConfiguration.resources
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.MainForm.resources
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.Properties.Resources.resources
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Rns_FormConfiguration.resources
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Oracle_QueryClient.resources
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.Vtwin_FormConfiguration.resources
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\CollectorPackage.LineFilter.resources
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.csproj.GenerateResource.Cache
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.exe.manifest
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.application
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.exe
+D:\Other Stuff\BKP ExCumpas\newsan\prj\AOI\AOI_VTWIN_RNS\obj\x64\Release\AOICollector.pdb
