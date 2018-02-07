@@ -1,0 +1,24 @@
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\bin\Debug\Cogiscan Utilities.exe.config
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\bin\Debug\Cogiscan Utilities.exe.manifest
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\bin\Debug\Cogiscan Utilities.application
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\bin\Debug\Cogiscan Utilities.exe
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\bin\Debug\Cogiscan Utilities.pdb
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\bin\Debug\MySql.Data.dll
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan_Utilities.asignTag.resources
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan_Utilities.Form1.resources
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan_Utilities.Login.resources
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan_Utilities.printFromExcel.resources
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan_Utilities.Properties.Resources.resources
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan_Utilities.rawMaterialWatcher.resources
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan_Utilities.reprint.resources
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan_Utilities.validar.resources
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan Utilities.csproj.GenerateResource.Cache
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan Utilities.TrustInfo.xml
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan Utilities.exe.manifest
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan Utilities.application
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan Utilities.exe
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan Utilities.pdb
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\obj\x86\Debug\Cogiscan Utilities.csprojResolveAssemblyReference.cache
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\bin\Debug\IBM.Data.DB2.dll
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\bin\Debug\IBM.Data.DB2.Entity.dll
+D:\Accesos\SoftwareUtils-Insaut\trunk\Cogiscan Utilities\Cogiscan Utilities\bin\Debug\IBM.Data.Informix.dll

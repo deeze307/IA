@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>Y:\Users\INSAUT\PLANTA_3\TECNICOS_3\Programacion\Software\dmaidana\Cogiscan Utilities\|Z:\Users\INSAUT\PLANTA_3\TECNICOS_3\Programacion\Software\dmaidana\Cogiscan Utilities\|F:\Users\INSAUT\PLANTA_3\TECNICOS_3\Programacion\Software\dmaidana\Cogiscan Utilities\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>\\ush-nt-3\v1\Users\INSAUT\PLANTA_3\TECNICOS_3\Programacion\Software\dmaidana\Cogiscan Utilities\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
