@@ -1,0 +1,10 @@
+D:\Accesos\SoftwareUtils-Insaut\trunk\TempAndHum_Collector\TempAndHum_Collector\bin\Debug\TempAndHum_Collector.exe.config
+D:\Accesos\SoftwareUtils-Insaut\trunk\TempAndHum_Collector\TempAndHum_Collector\bin\Debug\TempAndHum_Collector.exe
+D:\Accesos\SoftwareUtils-Insaut\trunk\TempAndHum_Collector\TempAndHum_Collector\bin\Debug\TempAndHum_Collector.pdb
+D:\Accesos\SoftwareUtils-Insaut\trunk\TempAndHum_Collector\TempAndHum_Collector\obj\Debug\TempAndHum_Collector.csprojResolveAssemblyReference.cache
+D:\Accesos\SoftwareUtils-Insaut\trunk\TempAndHum_Collector\TempAndHum_Collector\obj\Debug\TempAndHum_Collector.Form1.resources
+D:\Accesos\SoftwareUtils-Insaut\trunk\TempAndHum_Collector\TempAndHum_Collector\obj\Debug\TempAndHum_Collector.Properties.Resources.resources
+D:\Accesos\SoftwareUtils-Insaut\trunk\TempAndHum_Collector\TempAndHum_Collector\obj\Debug\TempAndHum_Collector.csproj.GenerateResource.Cache
+D:\Accesos\SoftwareUtils-Insaut\trunk\TempAndHum_Collector\TempAndHum_Collector\obj\Debug\TempAndHum_Collector.exe
+D:\Accesos\SoftwareUtils-Insaut\trunk\TempAndHum_Collector\TempAndHum_Collector\obj\Debug\TempAndHum_Collector.pdb
+D:\Accesos\SoftwareUtils-Insaut\trunk\TempAndHum_Collector\TempAndHum_Collector\bin\Debug\MySql.Data.dll
